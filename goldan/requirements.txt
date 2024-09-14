@@ -1,5 +1,4 @@
 setuptools
-pip --upgrade
 distutils
 seaborn==0.12.2
 
