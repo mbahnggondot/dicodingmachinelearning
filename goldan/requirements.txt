@@ -1,7 +1,5 @@
 setuptools
-distutils
 seaborn==0.12.2
-
 matplotlib==3.7.2
 numpy==1.23.5
 pandas==2.1.1
