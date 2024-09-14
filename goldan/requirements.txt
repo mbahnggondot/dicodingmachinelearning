@@ -1,5 +1,5 @@
 setuptools>=65.5.0
-distutils
+wheel
 seaborn==0.12.2
 matplotlib==3.7.2
 numpy==1.23.5
