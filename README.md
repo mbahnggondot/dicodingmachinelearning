@@ -22,18 +22,6 @@ submission/
 └───url.txt
 
 
-submission/
-├───dashboard/
-│   ├───day.csv
-│   ├───hour.csv
-│   └───dashboard.py
-├───data/
-│   ├───day.csv
-│   └───hour.csv
-├───notebook.ipynb
-├───README.md
-├───requirements.txt
-└───url.txt
 
 
 ### Panduan Menjalankan Proyek
